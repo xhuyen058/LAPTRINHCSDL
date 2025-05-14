@@ -1,0 +1,12 @@
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Release\BUS.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Release\BUS.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Release\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Release\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Release\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Release\DAO.dll.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Release\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Release\BUS.csproj.Up2Date
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Release\BUS.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Release\BUS.pdb

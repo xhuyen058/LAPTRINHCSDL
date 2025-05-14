@@ -1,0 +1,413 @@
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachSach.resources
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.LapPhieuNhapSach.resources
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachSach.resources
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.LapPhieuNhapSach.resources
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachPhieuQuaHan.resources
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\GUI\obj\Debug\GUI.ThongKeSLLoaiSach.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachPhieuQuaHan.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.ThongKeSLLoaiSach.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachPhieuQuaHan.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.ThongKeSLLoaiSach.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\spc\Desktop\OK\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachPhieuQuaHan.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.ThongKeSLLoaiSach.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachPhieuQuaHan.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.ThongKeSLLoaiSach.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+D:\LẬP TRÌNH CSDL\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachPhieuQuaHan.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.ThongKeSLLoaiSach.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachPhieuQuaHan.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.ThongKeSLLoaiSach.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+D:\LẬP TRÌNH CSDL\ĐỒ ÁN NỘP NÈ\QuanLyThuVien\GUI\obj\Debug\GUI.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\GUI.exe.config
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\GUI.exe
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\GUI.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\BUS.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\BUS.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\bin\Debug\DAO.dll.config
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCao.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.BaoCaoTop5.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.DangNhap.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.DanhSachPhieuQuaHan.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.DoiMatKhau.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuMuonSach.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuTraSach.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.ThongKeSLLoaiSach.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemDocGia.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.TimKiemSach.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.ManHinhChinh.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.PhieuNhapSach.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyDocGia.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyKeSach.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLySach.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.QuanLyTaiKhoan.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.XemChiTiet.resources
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.exe
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\GUI\obj\Debug\GUI.pdb

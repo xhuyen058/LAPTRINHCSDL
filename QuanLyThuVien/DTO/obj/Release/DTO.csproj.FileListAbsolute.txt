@@ -1,0 +1,6 @@
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\bin\Release\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\bin\Release\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\obj\Release\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\obj\Release\DTO.pdb

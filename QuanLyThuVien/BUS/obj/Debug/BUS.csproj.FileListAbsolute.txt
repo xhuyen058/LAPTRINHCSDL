@@ -1,0 +1,120 @@
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\bin\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\bin\Debug\DAO.dll.config
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DTO\obj\Debug\DTO.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DTO\bin\Debug\DTO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DTO\obj\Debug\DTO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DTO\obj\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\bin\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\obj\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DTO\obj\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DTO\bin\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DTO\obj\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DTO\obj\Debug\DTO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DTO\bin\Debug\DTO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DTO\obj\Debug\DTO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DTO\obj\Debug\DTO.pdb

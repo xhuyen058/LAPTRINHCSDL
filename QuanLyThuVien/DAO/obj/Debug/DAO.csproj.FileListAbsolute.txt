@@ -1,0 +1,100 @@
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\Users\Hi\Downloads\QuanLyThuVien_Lan\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\lan\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+D:\Project\HopeMoney\Project\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV_SuaBaiCuaKhach\KHÓA LUẬN TỐT NGHIỆP\DaiHocTaiNguyenMoiTruongHaNoi_PhungPhuongLan_QLTV\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\Users\spc\Desktop\Code\Code\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\OK\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\Users\spc\Downloads\Bài Gốc\OK\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\bin\Debug\DAO.dll.config
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+D:\LẬP TRÌNH CSDL\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
